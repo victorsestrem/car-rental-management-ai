@@ -1,4 +1,4 @@
-# Car Rental Management System with AI Customer Service — Case Study
+# Car Rental Management System with AI Customer Service: Case Study
 
 > Management system for car rental companies with a built-in customer service inbox on the **official WhatsApp API** and an **AI agent that handles customer conversations**.
 > **Source code is private.** This repository documents the project; a live demo is available on request.
@@ -15,11 +15,11 @@ Small and mid-sized rental companies juggle bookings, fleet and customers across
 
 ## What I built
 
-- **Rental management** — fleet, bookings and customers in one system.
+- **Rental management**: fleet, bookings and customers in one system.
 - **Customer service inbox** integrated with the **official WhatsApp Business API**, so the team works every conversation from one screen.
-- **AI agent** that answers customers on WhatsApp end to end — availability, prices and booking questions — with the conversation visible to the team, who can step in at any time.
+- **AI agent** that answers customers on WhatsApp end to end (availability, prices and booking questions), with the conversation visible to the team, who can step in at any time.
 - **Public booking website** (WordPress + Elementor) that reads fleet, prices and rules from the system, so nothing is registered twice and the site never diverges from the back office.
-- **Pricing engine** — rates per category, seasons, weekends, taxes and fees, add-ons and packages, pickup locations with their own fees.
+- **Pricing engine**: rates per category, seasons, weekends, taxes and fees, add-ons and packages, pickup locations with their own fees.
 
 ## Architecture
 
